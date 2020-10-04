@@ -1,5 +1,5 @@
 ---
 layout: page
 title: CV
-permalink: ./images/CV.pdf
+permalink: images/CV.pdf
 ---
