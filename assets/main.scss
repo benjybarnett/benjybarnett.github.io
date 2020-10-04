@@ -1,0 +1,33 @@
+---
+---
+
+@import "minima";
+
+/*    FOOTER OVERRIDE   */
+.site-footer {
+  padding: 20px 0;
+}
+
+.footer-heading {
+  text-align: center;
+}
+
+.footer-col-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-col {
+  display: inline-block;
+  width: auto;
+  padding: 0 20px;
+}
+
+#svg{
+	
+	position:relative;
+	top:-2px;
+	
+
+}
