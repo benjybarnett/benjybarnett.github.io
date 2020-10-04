@@ -36,7 +36,7 @@ combined deep dream algorithms in DNNs </a>with a real-time 360&deg; VR set up w
       <br><br><br><br>      <h1><b>Stereotypic Vision</b></h1>
       </div>
       
-      <div style="text-align: left; font-size: 11.8px ; padding-left: 305px">
+      <div style="text-align: left; font-size: 11.8px ; padding-left: 302px">
       	In a recent fMRI MVPA study in the Social and Cognitive Neural Sciences Lab at NYU, we looked for top-down effects of gender stereotypes on face perception in masked and unmasked faces. 
         Combining representational similarity analyses, functional connectivity measures, and multilevel modelling, we replicated <a href="https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/5dbf93a6bcfc042fbcd32067/1572836262909/neural-pattern-similarity-reveals-the-inherent-intersection-of-social-categories.pdf">previous findings</a> that suggest the conceptual stereotypes stored
         in the OFC feedback to modify early represenations of faces in the fusiform gyrus in a stereotype-consistent manner. 
@@ -56,7 +56,7 @@ combined deep dream algorithms in DNNs </a>with a real-time 360&deg; VR set up w
       <br><br><br><br>      <h1><b>Computational Modelling</b></h1>
       </div>
       
-      <div style="text-align: left; font-size: 11.8px; padding-left: 305px">
+      <div style="text-align: left; font-size: 11.8px; padding-left: 303px">
         I'm interested in computational modelling approaches to cognitive science and the variety of questions it can assist with. I've developed and used several models of the brain and cognitive systems, for instance DNNs, <a href="https://github.com/benjybarnett/bayesian-inference-model" > bayesian models</a>, and RNNs as a <a href="https://github.com/benjybarnett/social-interaction-model">model of enactive cognition</a>.
         <br><br>
         I also have some experience with NLP applications of machine learning, such as naiive bayes classifiers, sentiment analysis, and <a href="https://github.com/benjybarnett/Generate-Stories">LSTM text generation</a>.
