@@ -8,7 +8,7 @@ order: 2
   <div stle="clear: both">
     <div style="float: left;margin-top: 7%;margin-left: -5%">
       <br>
-      <img src="/images/deepdream.png" height=220px>
+      <img src="/images/deepdream.jpeg" height=220px>
 
     </div>
     <div style="text-align: center; font-size: 10px;padding-left: 300px; margin-top: -5%">
@@ -30,7 +30,7 @@ combined deep dream algorithms in DNNs </a>with a real-time 360&deg; VR set up w
 
    <div style="float: left;margin-left: -13%;right;margin-top:12%">
       <br> <br>
-      <img src="/images/nyu.png" height=220px width=350px>
+      <img src="/images/nyu.jpeg" height=220px width=350px>
     </div>
     <div style="text-align: center; font-size: 10px; padding-left: 307px">
       <br><br><br><br>      <h1><b>Stereotypic Vision</b></h1>
