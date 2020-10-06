@@ -10,7 +10,7 @@ order: 1
   <div stle="clear: both">
     <div style="float: left;">
       <br> <br>
-      <img src="/images/me.jpeg" height=350px>
+      <img src="/images/me.jpg" height=350px>
     </div>
     <div style="text-align: right;">
       <br><br><br><br><br>
