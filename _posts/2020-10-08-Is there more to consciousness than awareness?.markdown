@@ -21,5 +21,5 @@ So, what are these 'qualities of experience' that outstrip our ability to report
 
 <br><br>
 
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/watch?v=l8Nc0GI-ni0&list=PL6gn9sM3f65aY_BmZnN0eqFI-ufztxDxs&ab_channel=AgatonSax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;"width="560" height="315" src="https://www.youtube.com/embed/l8Nc0GI-ni0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
