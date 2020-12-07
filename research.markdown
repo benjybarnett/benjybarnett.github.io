@@ -37,7 +37,7 @@ combined deep dream algorithms in DNNs </a>with a real-time 360&deg; VR set up w
       </div>
       
       <div style="text-align: left; font-size: 11.8px ; padding-left: 302px">
-      	In a recent fMRI MVPA study in the Social and Cognitive Neural Sciences Lab at NYU, we looked for top-down effects of gender stereotypes on face perception in masked and unmasked faces. 
+      	In a <a href="https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsaa165/6017806"> recent fMRI MVPA study </a> in the Social and Cognitive Neural Sciences Lab at NYU, we looked for top-down effects of gender stereotypes on face perception in masked and unmasked faces. 
         Combining representational similarity analyses, functional connectivity measures, and multilevel modelling, we replicated <a href="https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/5dbf93a6bcfc042fbcd32067/1572836262909/neural-pattern-similarity-reveals-the-inherent-intersection-of-social-categories.pdf">previous findings</a> that suggest the conceptual stereotypes stored
         in the OFC feedback to modify early represenations of faces in the fusiform gyrus in a stereotype-consistent manner. 
         <br><br>
