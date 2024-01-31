@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 <img src="images/me.jpg" class="floatpic" width="360" height="480">
-
+<br>
 Hey, I'm **Benjy**! <br>
 
 I am a Cognitive Neuroscience PhD student in the <a href="https://metacoglab.org/MetaLab">MetaLab</a> at University College London. MY research spans all things **consciousness**, **perception**, **numerical**, and **social** cognition. 
@@ -13,9 +13,11 @@ I am a Cognitive Neuroscience PhD student in the <a href="https://metacoglab.org
 
 ## What I've been up to
 
-**<font color='red'>[Highlight]</font> I am looking for post-doc to start in Autumn 2024. CPlease get in touch if you'd be interested in collaborating!**
+**<font color='red'>[!]</font> I am looking for post-doc to start in Autumn 2024. CPlease get in touch if you'd be interested in collaborating!**
+<br>
 
-I'm currently in the final year of my PhD, working with Steve Fleming and Nadine Dijkstra at UCL. My research has developed into two broad streams: **1** exploring how neural magnitude codes may be shared between cognitive domains, and how they might interface with neural correlates of consciousness and **2** adapting social cognition paradigms for use in naturalistic experiments, using brand new wearable OP-MEG technologies. Before my PhD, I worked as an RA with Jon Freeman at NYU, where I used fMRI to explore how visual awareness facilitates the top-down influence of stereotypes on face perception. Before that, I completed my MSc in Intelligent and Adaptive Systems at the Sackler Centre for Consciousness Science, where, supervised by Keisuke Suzuki, I modelled visual hallucinations in virtual reality, and tested the impact this had on participants' use of priors during noise perception.
+I'm currently in the final year of my PhD, where I've been working with <a href="https://www.ucl.ac.uk/pals/people/steve-fleming">Steve Fleming</a> and <a href="https://sites.google.com/view/nadinedijkstra/about-me?authuser=0">Nadine Dijkstra</a> at UCL. My research has developed into two broad streams: <br>***1*** exploring how neural magnitude codes may be shared between cognitive domains, and how they might interface with neural correlates of consciousness and <br>***2*** adapting social cognition paradigms for use in naturalistic experiments, using brand new wearable OP-MEG technologies.<br>
+Before my PhD, I worked as an RA with <a href="https://www.freemanlab.org/">Jon Freeman</a> at NYU, where I used fMRI to explore how visual awareness facilitates the top-down influence of stereotypes on face perception. Before that, I completed my MSc in Intelligent and Adaptive Systems at the <a href="https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/">Sackler Centre for Consciousness Science</a>, where, supervised by <a href="https://sites.google.com/view/keisukesuzuki/home?authuser=0">Keisuke Suzuki</a>, I modelled visual hallucinations in virtual reality, and tested the impact this had on participants' use of priors during noise perception.
 
 <br>
 
