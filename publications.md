@@ -14,7 +14,7 @@ title: Publications
 
 ## Publications
 
-- [Identifying content-invariant neural signatures of perceptual vividness.](https://www.biorxiv.org/content/10.1101/2022.11.30.518510v3) (In press, *PNAS Nexus*)<br>
+- [Identifying content-invariant neural signatures of perceptual vividness.](https://www.biorxiv.org/content/10.1101/2022.11.30.518510v3) (in press, *PNAS Nexus*)<br>
 **Benjy Barnett**, Lau Andersen, Steve Fleming, Nadine Dijkstra.<br>
 [[*code*]](https://github.com/benjybarnett/abstract-awareness) [[*fMRI data*]](https://data.ru.nl/collections/di/dccn/DSC_3018030.03_435?0)
 
