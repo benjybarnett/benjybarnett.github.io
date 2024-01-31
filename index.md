@@ -6,7 +6,7 @@ layout: page
 
 <img src="images/me.jpg" class="floatpic" width="360" height="480">
 <br><br>
-Hey, I'm **Benjy**! <br>
+Hey, I'm **Benjy**! <br><br>
 
 I am a Cognitive Neuroscience PhD student in the <a href="https://metacoglab.org/MetaLab">MetaLab</a> at University College London. My research spans all things **consciousness**, **perception**, **numerical**, and **social** cognition. 
 
