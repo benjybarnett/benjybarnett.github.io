@@ -4,23 +4,18 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="images/me.jpg" class="floatpic" width="360" height="480">
 
-Hey, I'm **Benjy**.
+Hey, I'm **Benjy**! <br>
 
 I am a Cognitive Neuroscience PhD student in the <a href="https://metacoglab.org/MetaLab">MetaLab</a> at University College London. MY research spans all things **consciousness**, **perception**, **numerical**, and **social** cognition. 
 
-If you want to get in touch, my email is - *benjy[dot]barnett[dot]20[at]ucl[dot]ac[dot]uk*
 
-## Academic Background
+## What I've been up to
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for post-doc to start in Autumn 2024. CPlease get in touch if you'd be interested in collaborating!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
+I'm currently in the final year of my PhD, working with Steve Fleming and Nadine Dijkstra at UCL. My research has developed into two broad streams: **1** exploring how neural magnitude codes may be shared between cognitive domains, and how they might interface with neural correlates of consciousness and **2** adapting social cognition paradigms for use in naturalistic experiments, using brand new wearable OP-MEG technologies. Before my PhD, I worked as an RA with Jon Freeman at NYU, where I used fMRI to explore how visual awareness facilitates the top-down influence of stereotypes on face perception. Before that, I completed my MSc in Intelligent and Adaptive Systems at the Sackler Centre for Consciousness Science, where, supervised by Keisuke Suzuki, I modelled visual hallucinations in virtual reality, and tested the impact this had on participants' use of priors during noise perception.
 
 <br>
 
