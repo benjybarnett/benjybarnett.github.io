@@ -7,7 +7,7 @@ url: benjybarnett.github.io
 # Owner/author information
 owner:
   name: Benjy Barnett
-  avatar: me2.jpeg
+  avatar: https://benjybarnett.github.io/me2.jpeg
   #bio: Two roads diverged in woods, I took the one less traveled by.
   email: benjy.barnett.20@ucl.ac.uk
   cv: https://benjybarnett.github.io/file/CV.pdf
@@ -31,7 +31,7 @@ links:
   - title: About Me
     url: /
   - title: Publications
-    url: /publications/
+    url: https://benjybarnett.github.io/publications/
 
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -55,7 +55,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: benjyb
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
