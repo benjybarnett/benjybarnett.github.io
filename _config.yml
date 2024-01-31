@@ -31,7 +31,7 @@ links:
   - title: About Me
     url: /
   - title: Publications
-    url: https://benjybarnett.github.io/publications/
+    url: /publications/
 
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
