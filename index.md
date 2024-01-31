@@ -13,7 +13,7 @@ I am a Cognitive Neuroscience PhD student in the <a href="https://metacoglab.org
 
 ## What I've been up to
 
-**<font color='red'>[!]</font> I am looking for post-doc to start in Autumn 2024. Please get in touch if you'd be interested in collaborating!**
+**<font color='red'>[!]</font> I am looking for a post-doc to start in Autumn 2024. Please get in touch if you'd be interested in collaborating!**
 <br>
 <br>
 I'm currently in the final year of my PhD, where I've been working with <a href="https://www.ucl.ac.uk/pals/people/steve-fleming">Steve Fleming</a> and <a href="https://sites.google.com/view/nadinedijkstra/about-me?authuser=0">Nadine Dijkstra</a> at UCL. My research has developed into two broad streams: <br>**1** exploring how neural magnitude codes may be shared between cognitive domains, and how they might interface with neural correlates of consciousness <br>**2** adapting social cognition paradigms for use in naturalistic experiments, using brand new wearable OP-MEG technologies.<br><br>
