@@ -8,7 +8,7 @@ layout: page
 <br><br>
 Hey, I'm **Benjy**! <br>
 
-I am a Cognitive Neuroscience PhD student in the <a href="https://metacoglab.org/MetaLab">MetaLab</a> at University College London. MY research spans all things **consciousness**, **perception**, **numerical**, and **social** cognition. 
+I am a Cognitive Neuroscience PhD student in the <a href="https://metacoglab.org/MetaLab">MetaLab</a> at University College London. My research spans all things **consciousness**, **perception**, **numerical**, and **social** cognition. 
 
 
 ## What I've been up to
