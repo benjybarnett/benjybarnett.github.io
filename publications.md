@@ -6,7 +6,7 @@ title: Publications
 
 ## Preprints
 
-- [Creating something out of nothing: Symbolic and non-symbolic representations of numerical zero in the human brain](https://www.biorxiv.org/content/10.1101/2024.01.30.577906v1) (2024)<br> **Benjy Barnett** & Steve Fleming.<br>
+- [Creating something out of nothing: Symbolic and non-symbolic representations of numerical zero in the human brain.](https://www.biorxiv.org/content/10.1101/2024.01.30.577906v1) (2024)<br> **Benjy Barnett** & Steve Fleming.<br>
 [[*code*]](https://github.com/benjybarnett/ZeroMEG) [[*data*]](https://osf.io/vr7qp/)
 
 
