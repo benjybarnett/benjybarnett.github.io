@@ -6,7 +6,7 @@ title: Publications
 
 ## Preprints
 
-- [Creating something out of nothing: Symbolic and non-symbolic representations of numerical zero in the human brain.](https://www.biorxiv.org/content/10.1101/2024.01.30.577906v1) (2024)<br> **Benjy Barnett** & Steve Fleming.<br>
+- **Barnett, B.** & Fleming, S. (2024) [Creating something out of nothing: Symbolic and non-symbolic representations of numerical zero in the human brain.](https://www.biorxiv.org/content/10.1101/2024.01.30.577906v1) <br> 
 [[*code*]](https://github.com/benjybarnett/ZeroMEG) [[*data*]](https://osf.io/vr7qp/)
 
 
@@ -14,7 +14,7 @@ title: Publications
 
 ## Publications
 
-- **Barnett, B.**, Andersen, L., Fleming, S., Dijkstra, N. (in press, *PNAS Nexus*) [Identifying content-invariant neural signatures of perceptual vividness](https://www.biorxiv.org/content/10.1101/2022.11.30.518510v3) <br>
+- **Barnett, B.**, Andersen, L., Fleming, S., Dijkstra, N. (in press, *PNAS Nexus*) [Identifying content-invariant neural signatures of perceptual vividness.](https://www.biorxiv.org/content/10.1101/2022.11.30.518510v3) <br>
 [[*code*]](https://github.com/benjybarnett/abstract-awareness) [[*fMRI data*]](https://data.ru.nl/collections/di/dccn/DSC_3018030.03_435?0)
 
 
