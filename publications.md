@@ -20,7 +20,7 @@ title: Publications
 
 - **Barnett, B.O.**, Brooks, J.A., & Freeman, J.B. (2021). [Stereotypes bias face perception via orbitofrontal-fusiform cortical interaction](https://www.academic.oup.com/scan/article/16/3/302/6017806). Social Cognitive and Affective Neuroscience, 16(3), 302-314.
 
-
+<br>
 ## Media Coverage
 
 - **New Scientist** [Fear of predators may have helped us conceptualise the idea of zero](https://www.newscientist.com/article/2419468-fear-of-predators-may-have-helped-us-conceptualise-the-idea-of-zero/). 
