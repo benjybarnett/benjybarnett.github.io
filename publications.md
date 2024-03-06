@@ -23,7 +23,7 @@ title: Publications
 
 ## Media Coverage
 
-- **New Scientist**. [Fear of predators may have helped us conceptualise the idea of zero](https://www.newscientist.com/article/2419468-fear-of-predators-may-have-helped-us-conceptualise-the-idea-of-zero/). 
+- **New Scientist** [Fear of predators may have helped us conceptualise the idea of zero](https://www.newscientist.com/article/2419468-fear-of-predators-may-have-helped-us-conceptualise-the-idea-of-zero/). 
 
 
 - [**New Scientist Weekly Podcast**](https://shows.acast.com/61850ae845b6e300132557e2/65e1f72edfdd5a0017f966fb?seek=655). 
