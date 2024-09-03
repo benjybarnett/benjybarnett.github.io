@@ -12,7 +12,7 @@ title: Publications
 
 ## Publications
 
-- **Barnett, B.** & Fleming, S. (2024) [Symbolic and non-symbolic representations of numerical zero in the human brain.](https://www.cell.com/action/showPdf?pii=S0960-9822%2824%2900897-2), Current Biology. <br> 
+- **Barnett, B.** & Fleming, S. (2024) [Symbolic and non-symbolic representations of numerical zero in the human brain](https://www.cell.com/action/showPdf?pii=S0960-9822%2824%2900897-2), Current Biology. <br> 
 [[*code*]](https://github.com/benjybarnett/ZeroMEG) [[*data*]](https://osf.io/vr7qp/)
 
 - **Barnett, B.**, Andersen, L., Fleming, S., Dijkstra, N. (2024) [Identifying content-invariant neural signatures of perceptual vividness](https://academic.oup.com/pnasnexus/article/3/2/pgae061/7608186?login=false), PNAS Nexus, pgae061. <br>
