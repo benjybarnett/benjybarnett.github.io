@@ -25,6 +25,10 @@ title: Publications
 
 ## Media Coverage
 
+- **Quanta** [How the Brain Contends with the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/). 
+
+- **Scientific American** [How Your Brain Processes Zero](https://www.scientificamerican.com/article/how-your-brain-processes-zero-its-not-exactly-nothing/). 
+
 - **New Scientist** [Fear of predators may have helped us conceptualise the idea of zero](https://www.newscientist.com/article/2419468-fear-of-predators-may-have-helped-us-conceptualise-the-idea-of-zero/). 
 
 
