@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/me.jpg" class="floatpic" width="360" height="480">
+<img src="images/me.jpeg" class="floatpic" width="360" height="480">
 <br>
 Hey, I'm **Benjy**! <br><br>
 
