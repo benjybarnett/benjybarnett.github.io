@@ -15,7 +15,6 @@ I am a Post-Doctoral Research Fellow in the <a href="https://metacoglab.org/">Me
 
 <br>
 <br>
-During my fellowship, I will be working to explore the relationship between neural representations of sensory absence and more high-level, conceptual representations of absence - such as the number zero. In line with this, I am also working on the ETHOS adversarial collaboration - testing the richness of higher-order representations with <a href="https://profiles.ucl.ac.uk/74410-nadine-dijkstra">Nadine Dijkstra</a>. I am also continuing to collaborate with <a href="https://experts.exeter.ac.uk/41202-jonathan-huntley">Jon Huntley</a>, using neuroimaging tools to examine whether patients with Alzheimer's Disease exhibit differences in neural correlates of conscious perception.
 During my fellowship, I will be working to explore the relationship between neural representations of sensory absence and more high-level, conceptual representations of absence - such as the number zero. In line with this, I am also working on the <a href="https://www.arc-ethos.org/">ETHOS</a> adversarial collaboration - testing the richness of higher-order representations with <a href="https://profiles.ucl.ac.uk/74410-nadine-dijkstra">Nadine Dijkstra</a>. I am also continuing to collaborate with <a href="https://experts.exeter.ac.uk/41202-jonathan-huntley">Jon Huntley</a>, using neuroimaging tools to examine whether patients with Alzheimer's Disease exhibit differences in neural correlates of conscious perception.
 <br>
 <br>
