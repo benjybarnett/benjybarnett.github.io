@@ -23,6 +23,10 @@ title: Publications
 
 <br>
 
+## Science Communication
+
+- **Aeon** [Why Nothing Matters](https://aeon.co/essays/why-zero-could-unlock-how-the-brain-perceives-absence). 
+
 ## Media Coverage
 
 - **Quanta** [How the Brain Contends with the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/). 
