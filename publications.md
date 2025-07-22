@@ -5,7 +5,8 @@ title: Publications
 ---
 
 ## Preprints
-
+- **Barnett, B.**, Mazor, M., Cabbai, G., Dijkstra, N. (2025) [Vivid Imagery is Reported Faster than Weak Imagery](https://osf.io/preprints/psyarxiv/2uy9h) <br> 
+[[*code & data*]](https://osf.io/g7tjh/)
 
 
   <br>
