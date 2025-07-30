@@ -8,14 +8,16 @@ layout: page
 <br>
 Hey, I'm **Benjy**! <br><br>
 
-I am a Post-Doctoral Research Fellow in the <a href="https://metacoglab.org/">MetaLab</a> at the Functional Imaging Laboratory, UCL. My research spans all things **consciousness**, **perception**, and **numerical** and **social** cognition. 
-
+I am a Post-Doctoral Research Fellow in the <a href="https://psyc.bbk.ac.uk/uncertainty/">Uncertainty Lab</a> at the Birkbeck, University of London. My research spans all things **consciousness**, **perception**, and **numerical** and **social** cognition. 
 
 ## What I've been up to
 
 <br>
 <br>
-During my fellowship, I will be working to explore the relationship between neural representations of sensory absence and more high-level, conceptual representations of absence - such as the number zero. In line with this, I am also working on the <a href="https://www.arc-ethos.org/">ETHOS</a> adversarial collaboration - testing the richness of higher-order representations with <a href="https://profiles.ucl.ac.uk/74410-nadine-dijkstra">Nadine Dijkstra</a>. I am also continuing to collaborate with <a href="https://experts.exeter.ac.uk/41202-jonathan-huntley">Jon Huntley</a>, using neuroimaging tools to examine whether patients with Alzheimer's Disease exhibit differences in neural correlates of conscious perception.
+During my fellowship with Daniel Yon, I will be using fMRI and modelling to see how our social contexts influence our subjective experience. This could be via altercentric effects on perception, or incorporation of partners' uncertainty in our estimates of our own confidence. 
+<br>
+<br>
+In my previous post doc position, I was working to explore the relationship between neural representations of sensory absence and more high-level, conceptual representations of absence - such as the number zero. I was also working on the <a href="https://www.arc-ethos.org/">ETHOS</a> adversarial collaboration - testing the richness of higher-order representations with <a href="https://profiles.ucl.ac.uk/74410-nadine-dijkstra">Nadine Dijkstra</a>, a project I am still actively involved in. I am also continuing to collaborate with <a href="https://experts.exeter.ac.uk/41202-jonathan-huntley">Jon Huntley</a>, using neuroimaging tools to examine whether patients with Alzheimer's Disease exhibit differences in neural correlates of conscious perception.
 <br>
 <br>
 Throughout my PhD, I was working with <a href="https://www.ucl.ac.uk/pals/people/steve-fleming">Steve Fleming</a> and <a href="https://sites.google.com/view/nadinedijkstra/about-me?authuser=0">Nadine Dijkstra</a> at UCL. My research consisted of two broad streams: <br>**1** exploring how neural magnitude codes may be shared between cognitive domains, and how they might interface with neural correlates of consciousness <br>**2** adapting social cognition paradigms for use in naturalistic experiments and exploring the interface of social cognition and visual perception.<br><br>
