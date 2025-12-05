@@ -5,8 +5,6 @@ title: Publications
 ---
 
 ## Preprints
-- **Barnett, B.**, Mazor, M., Cabbai, G., Dijkstra, N. (2025) [Vivid Imagery is Reported Faster than Weak Imagery.](https://osf.io/preprints/psyarxiv/2uy9h) <br> 
-[[*code & data*]](https://osf.io/g7tjh/)
 
 - **Barnett, B.**, Fleming, S. (2025) [Distinct neural representations of perceptual and numerical absence in the human brain.](https://osf.io/preprints/psyarxiv/zyrdk) <br> 
 [[*code*]](https://github.com/benjybarnett/PerceptualNumericalAbsence)[[*data*]](https://osf.io/xhqfc/files/osfstorage)
@@ -15,6 +13,9 @@ title: Publications
   <br>
 
 ## Publications
+
+- **Barnett, B.**, Mazor, M., Cabbai, G., Dijkstra, N. (2025) [Vivid Imagery is Reported Faster than Weak Imagery](https://osf.io/preprints/psyarxiv/2uy9h), Neuroscience of Consciousness (in press). <br> 
+[[*code & data*]](https://osf.io/g7tjh/)
 
 - **Barnett, B.** & Fleming, S. (2024) [Symbolic and non-symbolic representations of numerical zero in the human brain](https://www.cell.com/action/showPdf?pii=S0960-9822%2824%2900897-2), Current Biology. <br> 
 [[*code*]](https://github.com/benjybarnett/ZeroMEG) [[*data*]](https://osf.io/vr7qp/)
