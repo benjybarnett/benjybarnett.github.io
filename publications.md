@@ -13,7 +13,7 @@ title: Publications
 - **Barnett, B.**, Yon, D. (in press) [Joint perception biases subjective awareness reports.](https://osf.io/preprints/psyarxiv/v7sm3_v1), Journal of Experimental Psychology: General.<br> 
 [[*code & data*]](https://osf.io/72swn/overview)
 
-- **Barnett, B.**, Fleming, S. (2026) [Distinct neural representations of perceptual and numerical absence in the human brain.](https://elifesciences.org/reviewed-preprints/112088), eLife.<br> 
+- **Barnett, B.**, Fleming, S. (2026) [Distinct neural representations of perceptual and numerical absence in the human brain.](https://elifesciences.org/reviewed-preprints/112088), eLife. <br> 
 [[*code*]](https://github.com/benjybarnett/PerceptualNumericalAbsence)[[*data*]](https://osf.io/xhqfc/files/osfstorage)
 
 - **Barnett, B.**, Mazor, M., Cabbai, G., Dijkstra, N. (2026) [Vivid Imagery is Reported Faster than Weak Imagery](https://academic.oup.com/nc/article/2026/1/niaf054/8429936), Neuroscience of Consciousness. <br> 
