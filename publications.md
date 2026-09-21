@@ -7,7 +7,7 @@ title: Publications
 
 ## Publications
 
-- **Barnett, B.**, Yon, D. (in press) [Joint perception biases subjective awareness reports](https://osf.io/preprints/psyarxiv/v7sm3_v1), Journal of Experimental Psychology: General.<br> 
+- **Barnett, B.**, Yon, D. (2026) [Joint perception biases subjective awareness reports](https://psycnet.apa.org/fulltext/2028-23274-001.html), Journal of Experimental Psychology: General.<br> 
 [[*code & data*]](https://osf.io/72swn/overview)
 
 - **Barnett, B.**, Fleming, S. (2026) [Distinct neural representations of perceptual and numerical absence in the human brain](https://elifesciences.org/reviewed-preprints/112088), eLife. <br> 
